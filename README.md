@@ -19,16 +19,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.instagram.com/developershinde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developershinde" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developer shinde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/groups/9375049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://codepen.io/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://dev.to/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://twitter.com/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developershinde" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/groups/9375049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://codesandbox.com/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="developershinde" height="30" width="40" /></a>
-<a href="https://www.instagram.com/developershinde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developershinde" height="30" width="40" /></a>
 <a href="https://hashnode.com/@developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@developershinde" height="30" width="40" /></a>
 <a href="https://medium.com/@developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@developershinde" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developer shinde" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/developershinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="developershinde" height="30" width="40" /></a>
 </p>
 
